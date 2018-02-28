@@ -1,5 +1,7 @@
 # Fake Facebook Hack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ishan-marikar/fake-facebook-hack.svg)](https://greenkeeper.io/)
+
 **Current Status: Incomplete**
 
 ![screenshot](https://i.imgur.com/bnhahFc.png)
