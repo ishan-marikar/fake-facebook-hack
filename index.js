@@ -62,7 +62,7 @@ const getCredentials = (data, done) => {
     {
       type: "password",
       name: "skiddiePassword",
-      message: "What is your username? (this exploit requires authentication)",
+      message: "What is your password? (this exploit requires authentication)",
       validate: validateInput
     }
   ];
